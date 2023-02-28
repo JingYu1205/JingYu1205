@@ -19,13 +19,13 @@ Hello, I'm [静Yu](https://jingyu1205.github.io/), A Front-end development:
 - 📫 How to reach me: jingyu20191205@163.com
 - 👨‍💼 I currently work in Beijing,China.
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I currently learn Vue3.0/Node.js.
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JingYu1205&theme=dark&layout=compact)
-
-![Fusion JingYu's Github Stats](https://github-readme-stats.vercel.app/api?username=JingYu1205&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 ⚡[CSDN](https://blog.csdn.net/qq_46285118)
 ⚡[Blog](https://jingyu1205.github.io/)
 ⚡[notebook](https://jingyu1205.github.io/docute-blog/#/)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JingYu1205&theme=dark&layout=compact)
+
+![Fusion JingYu's Github Stats](https://github-readme-stats.vercel.app/api?username=JingYu1205&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
