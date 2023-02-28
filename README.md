@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
-
 Hello, I'm [静Yu](https://jingyu1205.github.io/), A Front-end development:
 - 💬 Ask me about: 732461427
 - 📫 How to reach me: jingyu20191205@163.com
 - 👨‍💼 I currently work in Beijing,China.
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I currently learn Vue3.0/Node.js.
-- 👯 I look for cooperation opportunities on [Upwork](https://jingyu1205.github.io/).
+#### ⚡[CSDN](https://blog.csdn.net/qq_46285118)
+#### ⚡[Blog](https://jingyu1205.github.io/)
+#### ⚡[notebook](https://jingyu1205.github.io/docute-blog/#/)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -30,4 +30,4 @@ Hello, I'm [静Yu](https://jingyu1205.github.io/), A Front-end development:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Fusion JingYu's Github Stats](https://github-readme-stats.vercel.app/api?username=TianLangStudio&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Fusion JingYu's Github Stats](https://github-readme-stats.vercel.app/api?username=JingYu1205&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
