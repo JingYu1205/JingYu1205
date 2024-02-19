@@ -32,6 +32,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.s
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=jingyu1205" /> </div>
 
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jingyu1205" /> </div>
+
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
