@@ -1,6 +1,8 @@
 
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到静Yu的GitHub首页!&center=true&size=27"></h1>
 
+You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You! :heart:
+
 ### Hi there 👋
 🌑🌒🌓🌔🌕🌖🌗🌘🌚
 <!--
@@ -31,11 +33,10 @@ Hello, I'm [静Yu](https://jingyu1205.github.io/), A Front-end development:
 
 ![Fusion JingYu's Github Stats](https://github-readme-stats.vercel.app/api?username=JingYu1205&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You! :heart:
-
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jingyu1205" /> </div>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=jingyu1205" /> </div>
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jingyu1205" /> </div>
+
 
 
 
